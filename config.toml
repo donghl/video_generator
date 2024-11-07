@@ -1,0 +1,17 @@
+[common]
+temp_dir = "temp"
+data_dir = "data"
+log_level = "INFO"
+
+[project_a]
+output_format = "json"
+date_format = "%Y-%m-%d %H:%M:%S"
+
+[project_b]
+analysis_mode = "basic"
+save_results = true
+
+[external_app]
+report_format = "detailed"
+save_history = true
+history_file = "reports.json" 

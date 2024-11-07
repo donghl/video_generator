@@ -1,0 +1,150 @@
+[
+  {
+    "timestamp": "2024-11-07 11:50:22",
+    "raw_data": {
+      "values": [
+        15.5,
+        -2.3,
+        0.0,
+        42.1,
+        23.8,
+        17.9
+      ],
+      "metadata": {
+        "source": "external_app",
+        "type": "test_data"
+      }
+    },
+    "analysis": {
+      "extended_statistics": {
+        "mean": 16.166666666666668,
+        "sum": 97.0,
+        "min": -2.3,
+        "max": 42.1
+      },
+      "data_points": 6,
+      "has_negative": true,
+      "has_zero": true
+    }
+  },
+  {
+    "timestamp": "2024-11-07 13:09:25",
+    "raw_data": {
+      "values": [
+        15.5,
+        -2.3,
+        0.0,
+        42.1,
+        23.8,
+        17.9
+      ],
+      "metadata": {
+        "source": "external_app",
+        "type": "test_data"
+      }
+    },
+    "analysis": {
+      "status": "success",
+      "statistics": {
+        "mean": 16.166666666666668,
+        "sum": 97.0,
+        "min": -2.3,
+        "max": 42.1
+      },
+      "metadata": {
+        "source": "external_app",
+        "type": "test_data"
+      }
+    },
+    "process_result": {
+      "timestamp": "2024-11-07 13:09:25",
+      "statistics": {
+        "mean": 16.166666666666668,
+        "sum": 97.0,
+        "min": -2.3,
+        "max": 42.1
+      },
+      "data_length": 6
+    }
+  },
+  {
+    "timestamp": "2024-11-07 13:17:57",
+    "raw_data": {
+      "values": [
+        15.5,
+        -2.3,
+        0.0,
+        42.1,
+        23.8,
+        17.9
+      ],
+      "metadata": {
+        "source": "external_app",
+        "type": "test_data"
+      }
+    },
+    "analysis": {
+      "status": "success",
+      "statistics": {
+        "mean": 16.166666666666668,
+        "sum": 97.0,
+        "min": -2.3,
+        "max": 42.1
+      },
+      "metadata": {
+        "source": "external_app",
+        "type": "test_data"
+      }
+    },
+    "process_result": {
+      "timestamp": "2024-11-07 13:17:57",
+      "statistics": {
+        "mean": 16.166666666666668,
+        "sum": 97.0,
+        "min": -2.3,
+        "max": 42.1
+      },
+      "data_length": 6
+    }
+  },
+  {
+    "timestamp": "2024-11-07 13:20:52",
+    "raw_data": {
+      "values": [
+        15.5,
+        -2.3,
+        0.0,
+        42.1,
+        23.8,
+        17.9
+      ],
+      "metadata": {
+        "source": "external_app",
+        "type": "test_data"
+      }
+    },
+    "analysis": {
+      "status": "success",
+      "statistics": {
+        "mean": 16.166666666666668,
+        "sum": 97.0,
+        "min": -2.3,
+        "max": 42.1
+      },
+      "metadata": {
+        "source": "external_app",
+        "type": "test_data"
+      }
+    },
+    "process_result": {
+      "timestamp": "2024-11-07 13:20:52",
+      "statistics": {
+        "mean": 16.166666666666668,
+        "sum": 97.0,
+        "min": -2.3,
+        "max": 42.1
+      },
+      "data_length": 6
+    }
+  }
+]

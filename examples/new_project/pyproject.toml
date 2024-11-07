@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "new-project"
+version = "0.1.0"
+description = "使用外部公共功能的新项目"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.12"
+python-workspace = { path = "../..", develop = true }  # 引用主工作区项目
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api" 
